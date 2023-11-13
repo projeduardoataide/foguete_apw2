@@ -1,2 +1,2 @@
-# file:///C:/Users/lab1-aluno/Downloads/foguete_apw2-main/foguete_html/index.html
+# foguete_apw2
 repositório para site foguete
